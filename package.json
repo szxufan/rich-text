@@ -1,6 +1,6 @@
 {
-  "name": "rich-text",
-  "version": "4.1.0",
+  "name": "@mylinkpi/rich-text",
+  "version": "4.1.1",
   "description": "OT type for rich text",
   "author": "Jason Chen <jhchen7@gmail.com>",
   "homepage": "https://github.com/ottypes/rich-text",
@@ -23,10 +23,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ottypes/rich-text"
+    "url": "https://github.com/szxufan/rich-text"
   },
   "bugs": {
-    "url": "https://github.com/ottypes/rich-text/issues"
+    "url": "https://github.com/szxufan/rich-text/issues"
   },
   "keywords": [
     "rich text",
